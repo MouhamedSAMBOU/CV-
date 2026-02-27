@@ -30,8 +30,6 @@ logiciels = [
 for logiciel in logiciels:
     st.markdown(f"• *{logiciel}*")
 
-
-
 st.sidebar.title("PROFIL")
 st.sidebar.markdown("Technicien Superieur en Geomatique")
 st.sidebar.header("📞 *Contacts*")
@@ -39,14 +37,9 @@ st.sidebar.markdown("""
 *Adresse :*  
 Keur Massar, Boune
 
-*Téléphone :*  
-+221 777777777
-
 *Email :*  
 Sambouameth2002@gmail.com 
 """)
-
-
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("Merci de me contacter")
