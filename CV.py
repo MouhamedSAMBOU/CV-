@@ -2,7 +2,6 @@ import streamlit as st
 
 st.title ("📋 CURRICULUM VITAE")
 
-st.markdown("*Mouhamed SAMBOU* - Géomaticien")
 st.subheader("🎓 FORMATIONS")
 
 st.markdown("""
@@ -34,7 +33,7 @@ for logiciel in logiciels:
 
 
 st.sidebar.title("PROFIL")
-st.sidebar.image("Pro.jpeg", width=150)
+st.sidebar.markdown("*Mouhamed SAMBOU* - Géomaticien")
 st.sidebar.header("📞 *Contacts*")
 st.sidebar.markdown("""
 *Adresse*  
@@ -50,5 +49,5 @@ Sambouameth2002@gmail.com
 
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("Géomaticien - L2 en cours")
+st.sidebar.markdown("Merci de me contacter")
    
