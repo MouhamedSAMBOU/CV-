@@ -36,13 +36,13 @@ st.sidebar.title("PROFIL")
 st.sidebar.markdown("Technicien Superieur en Geomatique")
 st.sidebar.header("📞 *Contacts*")
 st.sidebar.markdown("""
-*Adresse*  
+*Adresse :*  
 Keur Massar, Boune
 
-*Téléphone*  
+*Téléphone :*  
 +221 777777777
 
-*Email*  
+*Email :*  
 Sambouameth2002@gmail.com 
 """)
 
